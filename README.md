@@ -1,22 +1,5 @@
-Spaghetti with Marinara Sauce
+# 문제1 stakeholder란 무엇이고 stakeholder가 증가할 경우에 발생하는 문제점에 대해서 "추상화와 모델링" 이 어떠한 효과가 있는지 설명하시오.
+ *정답
 
-1) Ingredients  
-
-- spaghetti
-- marinara sauce
-- salt
-
-2) Cooking  
-
-Bring water to a boil. Add a pinch of salt and the spaghetti. Cook until the pasta is tender.
-
-3) Serve  
-
-Drain the pasta and plate it. Heat the marinara sauce and spoon it over the pasta.
-
-“No man is lonely eating spaghetti; it requires so much attention.”
-
-Bon appetit!
-```
-이것도 되나 궁금하네
-```
+ ---
+ # 문제2 소프트웨어의 개발기간과 이용기간 장기화에 의해 발생하는 문제점에 대해서 "추적가능성"이 어떠한 효과기 있는지 설명하시오
