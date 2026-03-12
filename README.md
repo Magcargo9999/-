@@ -1,7 +1,7 @@
 ### 문제1 stakeholder란 무엇이고 stakeholder가 증가할 경우에 발생하는 문제점에 대해서 "추상화와 모델링" 이 어떠한 효과가 있는지 설명하시오.
  * stakeholder는 하나의 프로젝트에 이해관계를 가진 이해관계자를 말합니다.
  * 한프로젝트에서의 stakeholder는 프로젝트의 목표를 제시하는 고객, 실제로 완성된 제품을 사용하는 사용자, 고객의 요구사항과 기능목록들을 정리해주는 기획자, 실제로 코딩을 해서 기능을 구현하고 디버깅을 담당하는 개발자 그리고 프로그램의 배포와 유지보수를 담당하는 운영자등등의 수많은 stakeholder가 존재하는데 이러한 stakeholder가 한명한명이 늘어날때마다 stakeholder들간의 소통채널의 수는 기하급수적으로 늘어나고 서로 원활한 소통이 어려워집니다. 그리고 stakeholder들은 서로다른 관점으로 프로젝트를 바라보기때문에 소통이 원활하게 이루어지지 못하면 고객이 원하는것과는 다른결과물이 나올수 있습니다. 
- !<img width="340" height="278" alt="image" src="https://github.com/user-attachments/assets/85925a22-aff3-4284-a4e9-73db1e147879" />
+   !<img width="340" height="278" alt="image" src="https://github.com/user-attachments/assets/85925a22-aff3-4284-a4e9-73db1e147879" />
 
  
  * 추상화와 모델링
